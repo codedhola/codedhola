@@ -1,5 +1,4 @@
 - 👋 Hi, I’m  ***@codedhola***
-- 👀 I’m interested in software development
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on open source project
 - 📫 Reach me on twitter ***@codedhola_***
