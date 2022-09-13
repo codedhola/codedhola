@@ -1,5 +1,6 @@
 - 👋 Hi, I’m  ***@codedhola***
 - 🌱 A nodejs Developer
+- 🖥 working with both Mongodb and Postgresql
 - 😎 Currently in my #100DaysOfCode challenge
 - 💞️ I’m looking to collaborate on open source project
 - 📫 Reach me on twitter ***@codedhola_***
