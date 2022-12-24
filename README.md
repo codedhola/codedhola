@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  ***@codedhola***
 - 🌱 A Backend Developer
-- 🖥 working with Nodejs along with Mongodb and MySql
+- 🖥 working with Nodejs along with Mongodb(mongoose) and MySql(sequelise)
 - 😎 Currently Building stuffs from scratch
 - 💞️ I’m looking to collaborate on open source project
 - 📫 Reach me on twitter ***@codedhola_***
