@@ -3,7 +3,7 @@
 - 🖥 Stack based on express-nodejs(framework), mySql and postgres(Sql) and Mongodb(noSql)
 - 😎 Currently Building stuffs from scratch and also Currently learning typescript and docker
 - 🖥 Backend and devops cloud engineer in view
-- 💞️ I’m looking to collaborate on open source project
+- 💞️ I’m looking to collaborate on open source project and also a job as a back-end developer
 - 📫 Reach me on twitter ***[@codedhola_](https://twitter.com/codedhola_)***
 
 <!---
