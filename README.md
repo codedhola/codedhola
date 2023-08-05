@@ -1,8 +1,8 @@
 - 👋 Hi, I’m  ***@codedhola***
-- 🌱 A Backend Developer
-- 🖥 Stack based on express-nodejs(framework), mySql and postgres(Sql) and Mongodb(noSql)
-- 😎 Currently Building stuffs from scratch and also Currently learning React and Python
-- 🖥 Backend and devops cloud engineer in view
+- 🌱 A Fullstack Developer
+- 🖥 Stack based on express-nodejs(framework), mySql and nosql, python and react
+- 😎 Currently advancing my knowledge on React and Python
+- 🖥 fullstack and devops cloud engineer in view
 - 💞️ collaborating on open source project 
 - 📫 Reach me on twitter ***[@codedhola_](https://twitter.com/codedhola_)***
 
